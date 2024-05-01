@@ -1,5 +1,5 @@
 # SYBA
-Tutoring for student council students about System Programming 
+Tutoring examples about System Programming 
 
 # How to download?
 ```
